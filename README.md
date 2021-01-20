@@ -87,7 +87,7 @@ A step by step series of examples that tell you how to get a development envirom
 Explain how to run the automated tests for this system:
 - There is no download IDE need, all you need is download all the src to your machine and run it.
 - Using Jupiter Notebook
-- Navigate to the file Kahman_Filter_Implementation.ipynb
+- Navigate to the file Classification.ipynb
 - hit:
 
 ```
@@ -97,7 +97,7 @@ Ctrl + Enter
 
 ## Deployment
 
-Matrices class can be deploy and ready to work with any sensor, or moving robotic prediction. Idea for localization and/or self-driving car.
+day night classification is extremely helpful for .Idea for localization and/or self-driving car.
 It turns out that using multiple sensors like radar and lidar at the same time, will give even better results. Using more than one type of sensor at once is called sensor fusion, which is used in Self-Driving Car applications.
 Please refer to my notebook for better understanding.
 
