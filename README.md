@@ -105,6 +105,7 @@ Please refer to my notebook for better understanding.
 ## Built With
 
 * [Jupyter Notebook](https://jupyter.org/try) 
+* [Open CV])(https://opencv.org/)
 
 ## Contributing
 
