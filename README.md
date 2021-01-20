@@ -6,7 +6,7 @@ This is an Image Classification of Self Drving Car Series.. We'd like to build a
 # A note on neural networks
 Neural networks to be a set of algorithms that can learn to recognize patterns in data and sort that data into groups. The example we gave was sorting yellow and blue seas shells into two groups based on their color and shape; a neural network could learn to separate these shells based on their different traits and in effect a neural network could learn how to draw a line between the two kinds of shells. Deep neural networks are similar, only they can draw multiple and more complex lines in the sand, so to speak. Deep neural networks layer separation layers on top of one another to separate complex data into groups.
 
-![Img](https://github.com/jackyhuynh/Evaluation_Metrics_Accuracy_and_Miscalculation/blob/main/images/screen-shot-2018-01-16-at-5.55.04-pm.png)
+![Img](https://github.com/jackyhuynh/Day_Night_Image_Classifier/blob/main/images/screen-shot-2018-01-16-at-5.55.04-pm.png)
 
 # Convolutional Neural Networks (CNN's)
 The type of deep neural network that is most powerful in image processing tasks is called a Convolutional Neural Network (CNN). CNN's consist of layers that process visual information. A CNN first takes in an input image and then passes it through these layers. There are a few different types of layers, but we'll touch on the ones we've been learning about (and even programming on our own!): convolution, and fully-connected layers.
