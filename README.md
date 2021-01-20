@@ -97,8 +97,7 @@ Ctrl + Enter
 
 ## Deployment
 
-day night classification is extremely helpful for .Idea for localization and/or self-driving car.
-It turns out that using multiple sensors like radar and lidar at the same time, will give even better results. Using more than one type of sensor at once is called sensor fusion, which is used in Self-Driving Car applications.
+Day night classification is extremely helpful for any robotic application that operate outdoor. This application help the robot decide it is operate in day or night, so that it can adjust it sensor and operate accurate in current enviroment.
 Please refer to my notebook for better understanding.
 
 ## Built With
