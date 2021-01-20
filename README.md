@@ -1,8 +1,5 @@
 # Day-and-Night Image Classifier
- This is a self-driving car imagee classifier series. We'd like to build a classifier that can accurately label these images as day or night, and that relies on finding distinguishing features between the two types of images!
-
-# Python_Evaluation_Metrics
- Image Classification of Self Drving Car Series.
+This is an Image Classification of Self Drving Car Series.. We'd like to build a classifier that can accurately label these images as day or night, and that relies on finding distinguishing features between the two types of images!
 
 # A note on neural networks
 Neural networks to be a set of algorithms that can learn to recognize patterns in data and sort that data into groups. The example we gave was sorting yellow and blue seas shells into two groups based on their color and shape; a neural network could learn to separate these shells based on their different traits and in effect a neural network could learn how to draw a line between the two kinds of shells. Deep neural networks are similar, only they can draw multiple and more complex lines in the sand, so to speak. Deep neural networks layer separation layers on top of one another to separate complex data into groups.
