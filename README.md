@@ -18,7 +18,7 @@ The type of deep neural network that is most powerful in image processing tasks 
 - The output of a given convolutional layer is a set of feature maps, which are differently filtered versions of the input image.
 - Fully-connected layer
 
-![Img](https://github.com/jackyhuynh/Evaluation_Metrics_Accuracy_and_Miscalculation/blob/main/images/screen-shot-2018-01-16-at-6.01.18-pm.png)
+![Img](https://github.com/jackyhuynh/Day_Night_Image_Classifier/blob/main/images/screen-shot-2018-01-16-at-6.01.18-pm.png)
 
 ## Classification from scratch (Day and Night example)
 In this course, you've seen how to extract color and shape features from an image and you've seen how to use these features to classify any given image. In these examples, it's been up to you to decide what features/filters/etc. are useful and what classification method to use. You'll even be asked about learning from any classification errors you make.
