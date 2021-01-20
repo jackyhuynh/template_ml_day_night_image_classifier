@@ -53,7 +53,7 @@ There are a lot of material are used to built the image classification, from pro
 
 The steps include pre-processing images so that they could be further analyzed in the same way, this included changing color spaces. Then we moved on to feature extraction, in which you decided on distinguishing traits in each class of image, and tried to isolate those features! Finally, you created a complete classifier that output a label or a class for a given image, and analyzed your classification model to see its accuracy!
 
-![img](https://github.com/jackyhuynh/Evaluation_Metrics_Accuracy_and_Miscalculation/blob/main/images/screen-shot-2017-12-18-at-3.21.09-pm.png)
+![img](https://github.com/jackyhuynh/Day_Night_Image_Classifier/blob/main/images/screen-shot-2017-12-18-at-3.21.09-pm.png)
 
 ## Technology
 - Python 
